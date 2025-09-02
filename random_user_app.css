@@ -10,8 +10,6 @@ h1 {
   text-align: center;
   margin-bottom: 2rem;
 }
-
-
 /* Button hover effect for maangas still the same color because I still miss her*/
 #generateBtn:hover {
   transform: scale(1.03);
