@@ -1,0 +1,10 @@
+/*CSS*/
+body { font-family: Arial, sans-serif; }
+.auth-body { background-color: #f0f0f0; }
+h1 { font-size: 2rem; }
+form { background: white; }
+.btn { border-radius: 4px; }
+.alert { padding: .5rem; font-size: .9rem; }
+.dashboard-body { background: #fafafa; }
+.card { border: 1px solid #ddd; }
+.navbar { border-bottom: 1px solid #ddd; }
